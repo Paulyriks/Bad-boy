@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 2px solid;
+}
+.app {
+    min-height: 100vh;
+}
+/* header{
+    min-height: 10vh;
+} */
